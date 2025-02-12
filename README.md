@@ -11,3 +11,8 @@ Segmentation Model (ResUNet):  Precisely segments and highlights the affected re
 High Accuracy: The classification model achieves 87% accuracy, while the segmentation model achieves 98% accuracy.
 
 User-Friendly Interface: Designed to be easily integrated into clinical settings, allowing non-technical users (e.g., dentists) to interact with the system.
+
+### Results
+ResNet-50 Classification: Achieved 87% accuracy on the test dataset.
+
+ResUNet Segmentation: Achieved 98% accuracy and 60% Intersection over Union (IoU) on the test dataset.
