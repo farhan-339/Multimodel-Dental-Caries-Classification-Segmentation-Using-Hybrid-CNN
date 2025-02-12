@@ -6,7 +6,7 @@ This repository contains the implementation of a hybrid deep learning model for 
 ### Key Features
 Classification Model (ResNet-50): Accurately classifies dental radiographs into two categories: caries and non-caries.
 
-** Segmentation Model (ResUNet):***  Precisely segments and highlights the affected regions in radiographs where caries are detected.
+Segmentation Model (ResUNet):  Precisely segments and highlights the affected regions in radiographs where caries are detected.
 
 High Accuracy: The classification model achieves 87% accuracy, while the segmentation model achieves 98% accuracy.
 
